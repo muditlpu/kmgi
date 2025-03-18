@@ -6,18 +6,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "This is not just a school is a temple of education"
 ---
 
-## ABOUT OUR JOURNY
+## ABOUT OUR JOURNEY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
-
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Nestled in a region where access to quality education once demanded arduous journeys of 10–20 kilometers, this school stands as a transformative beacon of hope, born from the lived struggles of its founders. Driven by a sacred dream to honor their parents’ unwavering commitment to education, the institution is dedicated to eliminating barriers to learning by offering exceptional, locally accessible schooling that was previously unavailable. Combining rigorous academics with innovative teaching methods, the school empowers students through a curriculum that blends foundational knowledge with practical, community-relevant skills—from sustainable agriculture to digital literacy—equipping them to thrive in both local and global contexts. Prioritizing equity, it partners with communities to provide transportation solutions, scholarships, and mentorship programs, ensuring no child is left behind. By integrating technology, fostering creativity through arts and sports, and nurturing emotional well-being, the school cultivates resilient, visionary leaders poised to uplift their families and revitalize their region. More than an educational institution, it is a testament to the power of perseverance, community collaboration, and the belief that every child, regardless of circumstance, deserves the tools to shape a brighter future.
